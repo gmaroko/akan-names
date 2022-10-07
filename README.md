@@ -20,7 +20,7 @@ Akan Names
 - Click the submit button to see what my Akan name would be
 
 ## Live Link
-    https://gmaroko.github.io/akan-names
+https://gmaroko.github.io/akan-names
 
 ## Technologies used
 - JS
